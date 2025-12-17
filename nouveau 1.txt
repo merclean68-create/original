@@ -1,0 +1,11 @@
+brand-school/
+│
+├─ index.html
+├─ style.css
+├─ script.js
+├─ images/
+│   ├─ course1.jpg
+│   ├─ course2.jpg
+│   └─ team1.jpg
+├─ videos/
+│   └─ course-intro.mp4
